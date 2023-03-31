@@ -1,0 +1,6 @@
+Flask
+sqlalchemy
+flask_restful
+werkzeug
+sqlalchemy_serializer
+flask_wtf
